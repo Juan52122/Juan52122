@@ -932,5 +932,12 @@ juanflores.gs9393@gmail.com.gs9393@gmail.com{
 		"ghcr.io/davzucky/devcontainers-features-wolfi/docker-outside-of-docker:1": {},
 		"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {},
 		"ghcr.io/davzucky/devcontainers-features-wolfi/user:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"MS-CEINTL.vscode-language-pack-es"
+			]
+		}
 	}
 }
